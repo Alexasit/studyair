@@ -38,15 +38,12 @@ You have full control over your data because we don't collect it. Any learning p
 <br>
 6. Children's Privacy
 <br>
-Our app is safe for all users, including children, because it does not collect any personal information.
-<br>
-7. Changes to This Policy
-<br>
-If we change our data practices in the future and begin collecting information, we will update this policy, post it in the app, and change the "Last Updated" date.
+Our App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will delete it.
 <br>
 8. Contact Us
 <br>
 If you have any questions about this Privacy Policy, please contact us at:<br>
 <b>Email: teamantasit@gmail.com</b>
 </body>
+
 </html>
